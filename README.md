@@ -10,7 +10,9 @@ Agora, na pasta do projeto, terá de instalar o mysql2, é uma extensão que per
 Também precisaremos instalar o Express na aplicação com ```npm install express```.
 
 ## API com banco de dados:
-    É necessário criar uma base de dados local. Após isso, existe um arquivo chamado **create-table.js** onde terá de modificar os parâmetros de conexão. Após isso, abra o terminal e digite ```node create-table.js``` e ele criará a tabela *Users* no seu banco de dados. Agora está pronto para testar as entradas e saídas do código. Para isso você terá que utilizar o aplicativo **Postman**. 
+
+É necessário criar uma base de dados local. Após isso, existe um arquivo chamado **create-table.js** onde terá de modificar os parâmetros de conexão. Após isso, abra o terminal e digite ```node create-table.js``` e ele criará a tabela *Users* no seu banco de dados. Agora está pronto para testar as entradas e saídas do código. Para isso você terá que utilizar o aplicativo **Postman**. 
+
 
 #### Para testes no Postman:
 Digite no terminal ```node index.js``` e ele retornará que a API está funcionando. Após isso para testar a API, abra o Postman na opção POST, para iniciarmos a inserção de dados. Você digitará no URL: localhost:3000/users
