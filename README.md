@@ -1,7 +1,7 @@
 # intedata
 Integration Data: a app to integrate your data.
 
-###Aplicação teste com Front-End e localStorage:
+### Aplicação teste com Front-End e localStorage:
     Se encontra na pasta 'teste-front' onde encontrará os arquivos necessários para rodar a aplicação teste. É apenas necessário ter uma forma de executar o HTML, caso esteja utilizando Visual Studio Code, apenas a extensão **Live Server** é o bastante.
 
 Para seguirmos para a API, é necessário que tenha instalado o Node.js e o NPM na máquina.
